@@ -1,4 +1,5 @@
  🌾 FarmLocal — Enterprise-Scale Backend Dashboard
+  THIS WEBSITE IS LIVE AT : https://farm-local--tathagattripath.replit.app/
 
 FarmLocal is a **high-performance, enterprise-grade backend system** for agricultural resource and inventory management.
 It demonstrates **production-ready backend architecture** using PostgreSQL, Redis, rate limiting, and circuit breaker patterns — built to handle **large datasets and real-world traffic**.
